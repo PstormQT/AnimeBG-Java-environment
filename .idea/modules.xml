@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AnimeBG-Java-environment.iml" filepath="$PROJECT_DIR$/.idea/AnimeBG-Java-environment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main application/Main application.iml" filepath="$PROJECT_DIR$/Main application/Main application.iml" />
+    </modules>
+  </component>
+</project>
